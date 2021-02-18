@@ -1,0 +1,1 @@
+require("ffi").load(getRakBotPath().."/P24Fix.asi")
